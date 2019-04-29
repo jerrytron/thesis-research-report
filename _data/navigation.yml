@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Background"
+    url: /background/
+  - title: "Purpose"
+    url: /purpose/
+  - title: "Motivation"
+    url: /motivation/
+  - title: "Conclusions"
+    url: /conclusion/
+  - title: "Design Proposal"
+    url: /design/
+  - title: "Future Research"
+    url: /future/

@@ -1,0 +1,10 @@
+# Develop override settings
+
+baseurl: "/thesis-research-report" # the subpath of your site, e.g. "/blog"
+url: http://localhost:4000
+
+analytics:
+  provider: false
+
+sass:
+  style: expanded

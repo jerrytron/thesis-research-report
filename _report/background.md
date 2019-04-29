@@ -1,0 +1,16 @@
+---
+title: Background
+layout: single
+header:
+    #overlay_color: "#333"
+    overlay_filter: rgba(255, 0, 0, 0.5)
+    overlay_image: /assets/images/background-banner.png
+sidebar:
+    nav: "report"
+---
+
+The focus of my thesis was in direct response to many of my experiences as a designer creating immersive games and experiences; that is to say, experiences that attempt to build a fictional world or story that, at least for a little while, convince your senses that you exist within that world, and forget the one you came from. Think of how a Disney theme park fills the space that surrounds you objects and creations of all kinds, using light, color, sound, smell, and even texture that lets your imagination accept it as your reality, because it’s fun or exciting, even scary!
+
+Perhaps you’ve played one of the many live-action adventure games popping up all over the world called “[escape rooms](https://en.wikipedia.org/wiki/Escape_room)”. They are often miniature themed spaces, perhaps inhabiting a few rooms of space, full of puzzles and story. They always have some sort of problem or mystery to solve! These are a popular new form of game that started in Kyoto, Japan in 2007, but didn’t really start to grow worldwide until 2012 and 2013. Now there are thousands with countless themes, stories, puzzles, and goals. If you’ve played a handful yourself, you may notice how different they are, not just in theme, but in complexity or how _immersive_ they are. Some may be simpler, technically speaking, with objects to investigate, locks to discover the codes to, and there isn’t much of the theatrical Disneyesque elements. On the other hand, perhaps some games you played had special effects like big lighting effects or dramatic sounds, even magic wands or sci-fi devices that seemed to react or change the game like magic, causing a door to automatically open or light a fire in the fireplace.
+
+Effects like these are possible with the use of _immersive technology_. This is really a broad term, but is meant to mean and electronics or software, custom or existing, that allows a designer to make an experience feel more immersive or otherworldly. Some uses may be subtle, like placing a small statue on a pedestal and a secret panel creaking open slightly. Others perhaps more dramatic, where placing the statue triggers a dramatic flickering of lights, a subwoofer rumbling the room, even small servers tilting a bit of dust from the ceiling so it feels like the entire place might cave in!
