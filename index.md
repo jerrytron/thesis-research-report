@@ -17,7 +17,7 @@ header:
     caption:
     actions:
       - label: "The Research Report"
-        url: "/report/background/"
+        url: "/report/01-background/"
 
 feature_row:
   - image_path: /assets/images/feature-xd.png

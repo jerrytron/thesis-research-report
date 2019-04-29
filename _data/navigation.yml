@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Research Report"
-    url: /report/background/
+    url: /report/01-background/
 
 main-old:
   - title: "Home"
@@ -25,14 +25,14 @@ report:
   - title: "Report Content"
     children:
     - title: "1. Background"
-      url: /report/background/
+      url: /report/01-background/
     - title: "2. Purpose"
-      url: /report/purpose/
+      url: /report/02-purpose/
     - title: "3. Motivation"
-      url: /report/motivation/
+      url: /report/03-motivation/
     - title: "4. Conclusions"
-      url: /report/conclusions/
+      url: /report/04-conclusions/
     - title: "5. Design Proposal"
-      url: /report/design/
+      url: /report/05-design/
     - title: "6. Future Research"
-      url: /report/future/
+      url: /report/06-future/
