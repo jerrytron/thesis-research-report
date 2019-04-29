@@ -1,11 +1,10 @@
 ---
 title: My Motivation
-layout: single
+excerpt: ""
 header:
-    overlay_color: "#333"
+    #overlay_color: "#333"
+    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/motivation-banner.png
-sidebar:
-    nav: "report"
 gallery:
   - url: /assets/images/utopia-wiring-01.jpg
     image_path: /assets/images/utopia-wiring-01.jpg

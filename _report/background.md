@@ -1,12 +1,11 @@
 ---
-title: Background
-layout: single
+title: Research Background
+subtitle: SUBTITLE
+excerpt: ""
 header:
     #overlay_color: "#333"
-    overlay_filter: rgba(255, 0, 0, 0.5)
+    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/background-banner.png
-sidebar:
-    nav: "report"
 ---
 
 The focus of my thesis was in direct response to many of my experiences as a designer creating immersive games and experiences; that is to say, experiences that attempt to build a fictional world or story that, at least for a little while, convince your senses that you exist within that world, and forget the one you came from. Think of how a Disney theme park fills the space that surrounds you objects and creations of all kinds, using light, color, sound, smell, and even texture that lets your imagination accept it as your reality, because it’s fun or exciting, even scary!

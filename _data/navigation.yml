@@ -2,6 +2,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "Research Report"
+    url: /report/background/
+
+main-old:
+  - title: "Home"
+    url: /
   - title: "Background"
     url: /background/
   - title: "Purpose"
@@ -9,8 +15,24 @@ main:
   - title: "Motivation"
     url: /motivation/
   - title: "Conclusions"
-    url: /conclusion/
+    url: /conclusions/
   - title: "Design Proposal"
     url: /design/
   - title: "Future Research"
     url: /future/
+
+report:
+  - title: "Report Content"
+    children:
+    - title: "1. Background"
+      url: /report/background/
+    - title: "2. Purpose"
+      url: /report/purpose/
+    - title: "3. Motivation"
+      url: /report/motivation/
+    - title: "4. Conclusions"
+      url: /report/conclusions/
+    - title: "5. Design Proposal"
+      url: /report/design/
+    - title: "6. Future Research"
+      url: /report/future/

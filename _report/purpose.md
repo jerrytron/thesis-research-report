@@ -1,11 +1,10 @@
 ---
 title: The Purpose of this Study
-layout: single
+excerpt: ""
 header:
-    overlay_color: "#333"
+    #overlay_color: "#333"
+    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/purpose-banner.png
-sidebar:
-    nav: "report"
 ---
 
 Creating and using the technology I’m describing in experiences that an audience interacts with is _hard_. Even great designers struggle with this. It’s even harder to coordinate all of the pieces of technology to work together! I happen to have a fair bit of experience writing software code and working with electronics and it is still hard to make it all work together, as I learned while developing my first escape room game.

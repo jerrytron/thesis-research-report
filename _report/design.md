@@ -1,14 +1,13 @@
 ---
 title: Design Intervention Summary
-layout: single
+excerpt: ""
 header:
-    overlay_color: "#333"
+    #overlay_color: "#333"
+    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/design-banner.png
-sidebar:
-    nav: "report"
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: "Table of Contents"
+#toc_icon: "cog"
 gallery:
   - url: /assets/images/feather-huzzah32.png
     image_path: /assets/images/feather-huzzah32.png
