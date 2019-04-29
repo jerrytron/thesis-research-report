@@ -2,8 +2,6 @@
 title: Research Conclusions
 excerpt: ""
 header:
-    #overlay_color: "#333"
-    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/conclusions-banner.png
 ---
 

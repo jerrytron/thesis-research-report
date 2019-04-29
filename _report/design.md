@@ -2,8 +2,6 @@
 title: Design Intervention Summary
 excerpt: ""
 header:
-    #overlay_color: "#333"
-    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/design-banner.png
 toc: true
 toc_label: "Table of Contents"

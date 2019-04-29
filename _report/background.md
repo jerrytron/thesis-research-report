@@ -1,10 +1,8 @@
 ---
 title: Research Background
-subtitle: SUBTITLE
+subtitle: 
 excerpt: ""
 header:
-    #overlay_color: "#333"
-    #overlay_filter: rgba(0, 0, 0, 0.25)
     overlay_image: /assets/images/background-banner.png
 ---
 
